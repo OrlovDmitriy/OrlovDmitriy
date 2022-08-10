@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrlovDmitriy
 - 👀 I’m interested in android app development
-- 🌱 I’m currently learning Java Core
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... my e-mail dima.orlov.777@gmail.com
 
